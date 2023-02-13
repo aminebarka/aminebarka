@@ -1,4 +1,4 @@
-# Amine - Junior Web Developer
+# Amine - Full stack developer 👨🏾‍💻
 
 Hi Welcome to my Github profile! I am Amine, a passionate junior web developer interested in creating websites and web applications.
 
@@ -7,8 +7,13 @@ Hi Welcome to my Github profile! I am Amine, a passionate junior web developer i
 ## Skills
 
 ⚛ React
+Node.js
+SQL
+PHP
+MongoDB
+Laravel
 📱 React Native
-💻 HTML, CSS, JS
+💻 HTML, CSS, JS ,Typescript
 
 
 
