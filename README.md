@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/aminebarka?style=social)](https://github.com/aminebarka)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminebarka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4081?style=flat&logo=about.me&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4081?style=flat&logo=about.me&logoColor=white)](https://amine-barka.vercel.app/)
 
 ---
 
