@@ -42,20 +42,18 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-
-## 🚀 GitHub Insights  
-
-## 🚀 GitHub Insights  
+## 🚀 GitHub Insights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-254-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Repositories-44-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stars-14-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Followers-138-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Commits-254-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Commits"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Repositories-44-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Stars-14-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Followers-4-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
 </p>
-
 ---
-
 ## 🌟 Fun Fact
 - I enjoy **blending DevOps automation with elegant code** to make web apps run smoother and faster.  
 - I love creating **animated dashboards, cool badges, and interactive visuals** for fun and portfolio.  
