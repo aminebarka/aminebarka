@@ -45,19 +45,13 @@
 
 ## 🚀 GitHub Insights  
 
-<p align="center">
-  <a href="https://github.com/aminebarka">
-    <img src="https://github-readme-stats.vercel.app/api?username=aminebarka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" height="165"/>
-  </a>
-  <a href="https://github.com/aminebarka">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminebarka&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
-  </a>
-</p>
+## 🚀 GitHub Insights  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aminebarka&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/aminebarka?label=Followers&style=flat&color=blueviolet"/>
-  <img src="https://img.shields.io/github/stars/aminebarka?label=Stars&style=flat&color=blueviolet"/>
+  <img src="https://img.shields.io/badge/Commits-254-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repositories-44-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stars-14-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Followers-138-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
